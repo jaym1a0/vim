@@ -1,4 +1,14 @@
 # vim
 the conf of vim in linux
 
-2018-01-31
+# encoding
+
+# fold
+
+# winmanager/taglist/ctags/minibuffer
+
+# syntax
+
+# common used plugins
+
+2018-05-11
